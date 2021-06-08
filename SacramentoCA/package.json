@@ -1,0 +1,18 @@
+{
+  "name": "Pacific-Time-Zone",
+  "version": "1.0.0",
+  "description": "Electron Application",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/iitsmel/Pacific-Time-Zone.git",
+  "author": "iitsmel",
+  "devDependencies": {
+    "electron": "^12.0.10"
+  },
+  "dependencies": {
+    "menubar": "^9.0.4",
+    "moment-timezone": "^0.5.33"
+  }
+}
